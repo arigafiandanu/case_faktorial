@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'dart:core';
-import 'dart:math';
+
 
 void main() {
   int? nilai;
